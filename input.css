@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --clr-100: hsl(35, 77%, 62%);
+  --clr-200: hsl(5, 85%, 63%);
+  --clr-300: hsl(36, 100%, 99%);
+  --clr-400: hsl(233, 8%, 79%);
+  --clr-500: hsl(236, 13%, 42%);
+  --clr-600: hsl(240, 100%, 5%);
+}
+
+#overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
