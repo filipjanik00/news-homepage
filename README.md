@@ -21,7 +21,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/news-homepage-using-tailwind-css-IQYUQqfjkz)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/news-homepage-using-tailwind-css-GpCOY8UTdc)
 - Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/news-homepage/)
 
 ## My process
